@@ -23,3 +23,6 @@
     
 -[SetRDPPort](https://github.com/glaucomalagoli/Scriptland/blob/main/SetRDPPort)
     Sets the default or user specified port number for Remote Desktop connections. Enables firewall rule for inbound access to the port.
+
+-[Rename_host](https://github.com/glaucomalagoli/Scriptland/blob/main/Rename_host.ps1)
+    Rename Computer without Reboot.
