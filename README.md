@@ -26,3 +26,6 @@
 
 -[Rename_host](https://github.com/glaucomalagoli/Scriptland/blob/main/Rename_host.ps1)
     Rename Computer without Reboot.
+
+-[Keep_alive](https://github.com/glaucomalagoli/Scriptland/blob/main/keepalive.sh)
+    keep Alive for linux
