@@ -29,3 +29,6 @@
 
 -[Keep_alive](https://github.com/glaucomalagoli/Scriptland/blob/main/keepalive.sh)
     keep Alive for linux
+    
+-[ssl_checke](https://github.com/glaucomalagoli/Scriptland/blob/main/ssl_checker.sh)
+    SSL certificate checker
