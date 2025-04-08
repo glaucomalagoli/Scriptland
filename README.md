@@ -32,3 +32,6 @@
     
 -[ssl_checke](https://github.com/glaucomalagoli/Scriptland/blob/main/ssl_checker.sh)
     SSL certificate checker
+
+-[enable-touchid-sudo](https://github.com/glaucomalagoli/Scriptland/blob/main/enable-touchid-sudo.sh)
+    Habilita o uso de **Touch ID** para autenticação com `sudo` no macOS
