@@ -35,3 +35,6 @@
 
 -[enable_touchid_sudo](https://github.com/glaucomalagoli/Scriptland/blob/main/enable_touchid_sudo.sh)
     Habilita o uso de **Touch ID** para autenticação com `sudo` no macOS
+
+-[Disable-BitLockerRemote](https://github.com/glaucomalagoli/Scriptland/blob/main/Disable-BitLockerRemote.ps1)
+    Executa remotamente o comando Disable-BitLocker para o volume informado (padrão C:).
